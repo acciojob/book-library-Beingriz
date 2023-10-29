@@ -33,12 +33,6 @@ h1{
     margin: auto;
 }
 
-.details {
-    width: 100%;
-    height: auto;
-    text-align: left;
-}
-
 .price {
     background-color: rgb(46, 204, 113);
     text-decoration: none;
